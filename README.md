@@ -8,3 +8,7 @@
     - Make sure add gem 'mysql2', '>= 0.4.4', '< 0.6.0' in Gemfile
     - bundle install
     - database.yml
+
+# Running server
+    - rails server (or) rails s
+
