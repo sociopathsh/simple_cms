@@ -12,3 +12,6 @@
 # Running server
     - rails server (or) rails s
 
+# Generating a controller and view
+    - rails generate controller `controller_name` (or) rails generate controller `controller_name` `action`
+
