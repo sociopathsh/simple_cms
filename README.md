@@ -15,3 +15,6 @@
 # Generating a controller and view
     - rails generate controller `controller_name` (or) rails generate controller `controller_name` `action`
 
+# Routes
+    - in config/routes.rb
+    - https://guides.rubyonrails.org/routing.html
