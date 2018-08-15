@@ -1,6 +1,7 @@
 class DemoController < ApplicationController
 
   def index
+    @array = [1,2,3,4,5]
     # render('demo/hello')
     render('index')
   end
