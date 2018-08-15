@@ -24,3 +24,6 @@
 
 # Redirect Actions
     - https://guides.rubyonrails.org/layouts_and_rendering.html
+
+# View Templates
+    - https://guides.rubyonrails.org/action_view_overview.html
