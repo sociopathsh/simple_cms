@@ -18,3 +18,6 @@
 # Routes
     - in config/routes.rb
     - https://guides.rubyonrails.org/routing.html
+
+# Render a template
+    - https://guides.rubyonrails.org/layouts_and_rendering.html
