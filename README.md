@@ -21,3 +21,6 @@
 
 # Render a template
     - https://guides.rubyonrails.org/layouts_and_rendering.html
+
+# Redirect Actions
+    - https://guides.rubyonrails.org/layouts_and_rendering.html
