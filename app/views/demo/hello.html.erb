@@ -1,1 +1,8 @@
 <h1> Hello World from hello! </h1>
+
+<%= link_to('Index Page', {:action => 'index'}) %> <br />
+
+ID <%= params[:id] %> <br />
+ID <%= @id %> <br />
+Page <%= @page %> <br />
+Next Page <%= @page.to_i + 1  %> <br />

@@ -7,6 +7,8 @@ class DemoController < ApplicationController
   end
 
   def hello
+    @id = params[:id]
+    @page = params['page']
     # render('demo/index')
     render('hello')
   end

@@ -27,3 +27,7 @@
 
 # View Templates
     - https://guides.rubyonrails.org/action_view_overview.html
+
+# URL Parameters
+    - https://guides.rubyonrails.org/routing.html
+    
